@@ -10,9 +10,9 @@ In this, the user can book a seat on the bus where he/she wants to travel. The A
 - create a new database on Xampp server and import the provided SQL file.
 - You are ready.
 - Run Welcome.java file
-
+<p align="center">
 <img src="/readme_images/1.png" width="600">
-
+</p>
 ## Introduction
 
 ### The Control Panels
